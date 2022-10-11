@@ -1,4 +1,4 @@
-## Descrição
+## 📝 Descrição
 Foi realizado a correação dos problemas reportados na atividade XXX.
 
 ## Link da atividade do quadro do kanban
